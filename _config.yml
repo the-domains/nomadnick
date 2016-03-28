@@ -1,0 +1,28 @@
+name: nomadnick
+favicon: null
+layout_spectrum: 0.46279529039748013
+typography_spectrum: 0.0397577288094908
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8044136182870716
+  lightness: 0.574472016422078
+  saturation: 0.7872163904830813
+  rhythmicContrast: 0.6658857860602438
+purpose: []
