@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "What do I do. Hmph… Think of me as your personal Real Estate Problem Solver… All right? I am both a Realtor and a Real Estate Investor, so I’m in a very unique position to make sure that you make the right decisions when it comes to choosing, the right home and the right investment properties that are going to actually MAKE money for you, rather than costing you an arm and a leg, okay? Which is what the vast majority of people get themselves into by the way. To boil it all down,\_I really do three main things, okay?:"
-datePublished: '2016-03-28T04:08:09.234Z'
-dateModified: '2016-03-28T04:07:49.800Z'
+datePublished: '2016-03-28T04:10:19.265Z'
+dateModified: '2016-03-28T04:08:16.668Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-28-what-do-i-do-hmph-think-of-me-as-your-personal-real-estate.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-28-what-do-i-do-hmph-think-of-me-as-your-personal-real-estate.md
-published: true
 url: what-do-i-do-hmph-think-of-me-as-your-personal-real-estate/index.html
 _type: Article
 
